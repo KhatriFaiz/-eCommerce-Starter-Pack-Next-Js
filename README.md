@@ -1,4 +1,4 @@
-Introducing our Next.js e-commerce website template – the perfect starting point for building your online store. We've included all the essential pages, from product listings to checkout, as well as popular dependencies like React-Icons and Tailwind CSS to make your development process smoother. With everything you need in one place, you can jump right in and start building
+Introducing our Next.js e-commerce website template – the perfect starting point for building your online store. We've included all the essential pages, from product listings to checkout, as well as popular dependencies like React-Icons and Tailwind CSS to make your development process smoother. With everything you need in one place, you can jump right in and start building!!!
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
